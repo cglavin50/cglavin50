@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**cglavin50/cglavin50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cooper, a fullstack dev who loves working on new tech and solving real-world problems. Read more about me [here](https://cglavin50.github.io/portfolio/).
 
 Here are some ideas to get you started:
 
